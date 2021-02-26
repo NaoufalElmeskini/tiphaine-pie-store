@@ -6,12 +6,12 @@ body {
     background-repeat: repeat;
 }
 
-.background-red {
-    background-color: red !important;
+.jumbotron-detail-apple-pie{
+    background: url('../images/products/applepie.jpg') no-repeat fixed;
 }
-.background-yellow {
-    background-color: yellow !important;
-}
-.background-green {
-    background-color: green !important;
+
+.jumbotron{
+    box-shadow: inset 0 0 0 100vw rgba(0,0,0,0.1);
+    height: 40vh;
+    background-size: cover;
 }

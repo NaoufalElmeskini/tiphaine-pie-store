@@ -1,0 +1,19 @@
+
+body {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    background-image: url('../images/pattern.png');
+    background-repeat: repeat;
+}
+
+
+
+.background-red {
+    background-color: red !important;
+}
+.background-yellow {
+    background-color: yellow !important;
+}
+.background-green {
+    background-color: green !important;
+}
